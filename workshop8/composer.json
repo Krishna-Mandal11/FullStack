@@ -1,0 +1,19 @@
+{
+    "name": "nitro/workshop8",
+    "autoload": {
+        "psr-4": {
+            "Nitro\\Workshop8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "krishnaafk",
+            "email": "mandalkrishna0100@gmail.com"
+        }
+    ],
+   "require": {
+    "illuminate/view": "^9.0",
+    "illuminate/filesystem": "^9.0",
+    "illuminate/events": "^9.0"
+}
+}
